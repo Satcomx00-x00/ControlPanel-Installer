@@ -71,7 +71,7 @@ services:
       SESSION_DRIVER: "redis"
       QUEUE_DRIVER: "redis"
       REDIS_HOST: "cache"
-      DB_HOST: "database"
+      DB_HOST: "172.112.0.4"
       DB_PORT: "3306"
       
     
